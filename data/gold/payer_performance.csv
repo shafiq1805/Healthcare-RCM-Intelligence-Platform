@@ -1,0 +1,4 @@
+payer,total_claims,denied_claims,total_claim_amount,total_allowed_amount,total_paid_amount,denial_rate
+CareSecure,69,35,875812,675103,209974,50.72
+HealthPlus,62,21,795353,635293,293110,33.87
+MediShield,69,27,902135,711875,301963,39.13

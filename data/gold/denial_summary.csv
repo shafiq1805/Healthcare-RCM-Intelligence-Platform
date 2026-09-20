@@ -1,0 +1,84 @@
+claim_id,patient_id,provider_id,payer,claim_amount,submission_date,denial_date,denial_code,denial_reason,denial_category,appeal_status
+C00002,P0059,PR009,CareSecure,5657,2026-07-25,2026-07-27,CO-16,Missing required documentation,Documentation,APPEALED
+C00005,P0012,PR012,MediShield,7563,2026-01-24,2026-01-26,CO-197,Authorization missing,Authorization,CLOSED
+C00012,P0043,PR009,CareSecure,4274,2026-03-22,2026-03-28,CO-16,Missing required documentation,Documentation,OPEN
+C00013,P0069,PR019,CareSecure,23097,2026-07-06,2026-07-11,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00014,P0023,PR007,CareSecure,19796,2026-09-01,2026-09-03,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00017,P0097,PR004,CareSecure,5298,2026-08-26,2026-09-05,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00019,P0005,PR006,CareSecure,21052,2026-06-12,2026-06-16,CO-197,Authorization missing,Authorization,OPEN
+C00020,P0079,PR002,CareSecure,21189,2026-08-30,2026-09-08,CO-16,Missing required documentation,Documentation,APPEALED
+C00025,P0044,PR018,MediShield,11753,2026-07-14,2026-07-18,CO-16,Missing required documentation,Documentation,APPEALED
+C00028,P0081,PR019,CareSecure,2659,2026-01-17,2026-01-22,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00030,P0067,PR010,MediShield,19595,2026-05-04,2026-05-10,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00033,P0020,PR020,CareSecure,17162,2026-02-07,2026-02-15,CO-197,Authorization missing,Authorization,CLOSED
+C00034,P0001,PR006,CareSecure,11697,2026-04-02,2026-04-05,CO-16,Missing required documentation,Documentation,CLOSED
+C00037,P0070,PR007,CareSecure,24131,2026-04-30,2026-05-09,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00040,P0057,PR014,MediShield,13013,2026-06-26,2026-06-29,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00044,P0083,PR013,MediShield,13491,2026-03-11,2026-03-17,CO-197,Authorization missing,Authorization,OPEN
+C00047,P0069,PR013,MediShield,15199,2026-08-05,2026-08-13,CO-197,Authorization missing,Authorization,OPEN
+C00049,P0003,PR014,HealthPlus,9940,2026-06-02,2026-06-09,CO-16,Missing required documentation,Documentation,APPEALED
+C00050,P0003,PR006,MediShield,21437,2026-08-05,2026-08-13,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00052,P0002,PR014,MediShield,551,2026-05-11,2026-05-13,CO-16,Missing required documentation,Documentation,CLOSED
+C00053,P0076,PR010,MediShield,22270,2026-05-21,2026-05-29,CO-197,Authorization missing,Authorization,OPEN
+C00054,P0069,PR002,CareSecure,13294,2026-04-27,2026-05-07,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00061,P0055,PR008,CareSecure,21987,2026-07-15,2026-07-25,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00062,P0100,PR020,CareSecure,24856,2026-06-26,2026-07-03,CO-16,Missing required documentation,Documentation,CLOSED
+C00065,P0032,PR007,HealthPlus,3861,2026-05-08,2026-05-13,CO-197,Authorization missing,Authorization,OPEN
+C00066,P0023,PR011,MediShield,20246,2026-06-03,2026-06-11,CO-16,Missing required documentation,Documentation,APPEALED
+C00068,P0010,PR007,HealthPlus,21454,2026-04-19,2026-04-29,CO-197,Authorization missing,Authorization,OPEN
+C00070,P0085,PR018,HealthPlus,4636,2026-05-12,2026-05-20,CO-16,Missing required documentation,Documentation,APPEALED
+C00071,P0012,PR020,MediShield,13045,2026-08-22,2026-08-26,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00073,P0065,PR015,MediShield,10801,2026-01-07,2026-01-10,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00075,P0049,PR004,CareSecure,23569,2026-01-25,2026-01-27,CO-197,Authorization missing,Authorization,CLOSED
+C00076,P0001,PR015,HealthPlus,7059,2026-06-19,2026-06-25,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00079,P0071,PR019,HealthPlus,17170,2026-04-15,2026-04-25,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00081,P0083,PR014,HealthPlus,20552,2026-03-08,2026-03-12,CO-197,Authorization missing,Authorization,OPEN
+C00082,P0059,PR020,MediShield,13916,2026-03-07,2026-03-17,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00087,P0042,PR005,MediShield,20633,2026-04-11,2026-04-19,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00090,P0089,PR006,MediShield,20754,2026-02-18,2026-02-23,CO-197,Authorization missing,Authorization,CLOSED
+C00092,P0054,PR017,MediShield,2891,2026-05-15,2026-05-25,CO-197,Authorization missing,Authorization,OPEN
+C00093,P0025,PR004,HealthPlus,15718,2026-03-12,2026-03-15,CO-16,Missing required documentation,Documentation,APPEALED
+C00095,P0075,PR006,CareSecure,8421,2026-08-28,2026-09-04,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00102,P0037,PR012,CareSecure,13713,2026-06-03,2026-06-06,CO-197,Authorization missing,Authorization,OPEN
+C00103,P0056,PR015,CareSecure,18628,2026-08-02,2026-08-10,CO-197,Authorization missing,Authorization,APPEALED
+C00104,P0086,PR013,MediShield,20922,2026-03-21,2026-03-28,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00106,P0044,PR004,HealthPlus,16886,2026-08-25,2026-09-01,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00107,P0041,PR019,CareSecure,17517,2026-08-07,2026-08-09,CO-197,Authorization missing,Authorization,APPEALED
+C00108,P0077,PR014,CareSecure,20589,2026-08-05,2026-08-12,CO-16,Missing required documentation,Documentation,CLOSED
+C00110,P0043,PR004,CareSecure,1045,2026-08-30,2026-09-03,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00113,P0085,PR010,HealthPlus,22806,2026-02-05,2026-02-10,CO-16,Missing required documentation,Documentation,OPEN
+C00114,P0073,PR017,CareSecure,1120,2026-02-26,2026-03-05,CO-197,Authorization missing,Authorization,OPEN
+C00118,P0093,PR011,CareSecure,20490,2026-09-03,2026-09-06,CO-197,Authorization missing,Authorization,OPEN
+C00123,P0062,PR007,CareSecure,24988,2026-01-31,2026-02-02,CO-197,Authorization missing,Authorization,OPEN
+C00131,P0073,PR003,MediShield,19110,2026-08-22,2026-08-26,CO-197,Authorization missing,Authorization,APPEALED
+C00132,P0067,PR007,MediShield,21514,2026-06-23,2026-06-30,CO-16,Missing required documentation,Documentation,CLOSED
+C00133,P0096,PR016,HealthPlus,6818,2026-01-15,2026-01-21,CO-16,Missing required documentation,Documentation,APPEALED
+C00134,P0083,PR001,HealthPlus,24047,2026-05-19,2026-05-21,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00136,P0061,PR011,MediShield,13634,2026-04-20,2026-04-30,CO-16,Missing required documentation,Documentation,OPEN
+C00137,P0068,PR002,HealthPlus,8628,2026-04-21,2026-05-01,CO-16,Missing required documentation,Documentation,CLOSED
+C00139,P0035,PR002,HealthPlus,23200,2026-06-11,2026-06-21,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00142,P0093,PR020,CareSecure,20348,2026-02-03,2026-02-07,CO-197,Authorization missing,Authorization,CLOSED
+C00144,P0092,PR015,MediShield,3059,2026-01-28,2026-01-30,CO-197,Authorization missing,Authorization,APPEALED
+C00147,P0002,PR014,MediShield,15468,2026-01-14,2026-01-24,CO-197,Authorization missing,Authorization,OPEN
+C00150,P0080,PR003,CareSecure,1539,2026-02-24,2026-02-28,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00152,P0066,PR019,CareSecure,21915,2026-07-25,2026-07-30,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00154,P0076,PR008,CareSecure,17930,2026-05-26,2026-06-01,CO-197,Authorization missing,Authorization,OPEN
+C00155,P0066,PR005,CareSecure,5583,2026-06-23,2026-06-25,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00157,P0052,PR007,MediShield,3806,2026-03-28,2026-04-03,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00161,P0012,PR011,CareSecure,10346,2026-05-09,2026-05-16,CO-197,Authorization missing,Authorization,OPEN
+C00162,P0056,PR007,CareSecure,18714,2026-02-12,2026-02-18,CO-16,Missing required documentation,Documentation,CLOSED
+C00163,P0040,PR015,CareSecure,23316,2026-06-13,2026-06-18,CO-50,Service not medically necessary,Medical Necessity,APPEALED
+C00164,P0075,PR006,CareSecure,18126,2026-03-25,2026-03-28,CO-197,Authorization missing,Authorization,APPEALED
+C00166,P0078,PR018,CareSecure,8457,2026-05-15,2026-05-25,CO-50,Service not medically necessary,Medical Necessity,OPEN
+C00167,P0043,PR016,HealthPlus,12659,2026-01-30,2026-02-04,CO-16,Missing required documentation,Documentation,CLOSED
+C00171,P0020,PR011,MediShield,8342,2026-04-12,2026-04-22,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00172,P0048,PR012,MediShield,17986,2026-03-27,2026-03-29,CO-16,Missing required documentation,Documentation,OPEN
+C00176,P0035,PR006,HealthPlus,5494,2026-05-08,2026-05-14,CO-197,Authorization missing,Authorization,APPEALED
+C00181,P0007,PR012,HealthPlus,23672,2026-01-21,2026-01-29,CO-50,Service not medically necessary,Medical Necessity,CLOSED
+C00182,P0033,PR002,MediShield,2480,2026-02-03,2026-02-05,CO-16,Missing required documentation,Documentation,APPEALED
+C00183,P0049,PR002,HealthPlus,1015,2026-08-06,2026-08-13,CO-197,Authorization missing,Authorization,APPEALED
+C00186,P0011,PR008,CareSecure,9259,2026-04-05,2026-04-11,CO-197,Authorization missing,Authorization,OPEN
+C00187,P0060,PR019,HealthPlus,23347,2026-08-18,2026-08-24,CO-197,Authorization missing,Authorization,OPEN
+C00191,P0057,PR010,HealthPlus,2025,2026-06-30,2026-07-06,CO-197,Authorization missing,Authorization,APPEALED
+C00196,P0067,PR018,MediShield,1470,2026-01-13,2026-01-23,CO-16,Missing required documentation,Documentation,APPEALED
+C00200,P0069,PR008,HealthPlus,12319,2026-05-28,2026-06-01,CO-16,Missing required documentation,Documentation,APPEALED

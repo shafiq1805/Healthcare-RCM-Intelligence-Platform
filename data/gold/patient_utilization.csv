@@ -1,0 +1,101 @@
+patient_id,gender,city,state,insurance_plan,total_encounters,total_claims,total_claim_amount
+P0001,M,Chennai,Tamil Nadu,MediShield,3,3,41152.0
+P0002,M,Chennai,Tamil Nadu,HealthPlus,3,3,25925.0
+P0003,M,Chennai,Tamil Nadu,MediShield,4,4,50820.0
+P0004,M,Hyderabad,Telangana,HealthPlus,1,1,6605.0
+P0005,M,Bengaluru,Karnataka,HealthPlus,2,2,34437.0
+P0006,M,Bengaluru,Karnataka,MediShield,1,1,5598.0
+P0007,F,Bengaluru,Karnataka,MediShield,2,2,26833.0
+P0008,M,Coimbatore,Tamil Nadu,HealthPlus,2,2,41094.0
+P0009,F,Chennai,Tamil Nadu,CareSecure,0,0,0.0
+P0010,M,Coimbatore,Tamil Nadu,HealthPlus,1,1,21454.0
+P0011,F,Bengaluru,Karnataka,HealthPlus,4,4,44905.0
+P0012,F,Coimbatore,Tamil Nadu,HealthPlus,4,4,55092.0
+P0013,F,Coimbatore,Tamil Nadu,CareSecure,0,0,0.0
+P0014,F,Bengaluru,Karnataka,MediShield,2,2,21383.0
+P0015,M,Bengaluru,Karnataka,HealthPlus,4,4,47893.0
+P0016,F,Chennai,Tamil Nadu,CareSecure,3,3,44615.0
+P0017,M,Hyderabad,Telangana,MediShield,2,2,12987.0
+P0018,F,Hyderabad,Telangana,CareSecure,1,1,4998.0
+P0019,M,Coimbatore,Tamil Nadu,MediShield,1,1,22723.0
+P0020,M,Madurai,Tamil Nadu,CareSecure,2,2,25504.0
+P0021,F,Coimbatore,Tamil Nadu,HealthPlus,1,1,11948.0
+P0022,M,Chennai,Tamil Nadu,HealthPlus,1,1,6250.0
+P0023,M,Hyderabad,Telangana,HealthPlus,4,4,68654.0
+P0024,M,Bengaluru,Karnataka,MediShield,1,1,16208.0
+P0025,F,Coimbatore,Tamil Nadu,HealthPlus,2,2,23139.0
+P0026,M,Coimbatore,Tamil Nadu,HealthPlus,1,1,8800.0
+P0027,M,Chennai,Tamil Nadu,CareSecure,1,1,3086.0
+P0028,M,Chennai,Tamil Nadu,MediShield,0,0,0.0
+P0029,M,Hyderabad,Telangana,HealthPlus,1,1,9840.0
+P0030,F,Chennai,Tamil Nadu,MediShield,1,1,3209.0
+P0031,F,Chennai,Tamil Nadu,MediShield,1,1,16222.0
+P0032,F,Madurai,Tamil Nadu,HealthPlus,1,1,3861.0
+P0033,F,Bengaluru,Karnataka,MediShield,3,3,30722.0
+P0034,M,Chennai,Tamil Nadu,HealthPlus,1,1,3672.0
+P0035,M,Bengaluru,Karnataka,CareSecure,2,2,28694.0
+P0036,F,Chennai,Tamil Nadu,MediShield,1,1,15151.0
+P0037,F,Hyderabad,Telangana,HealthPlus,4,4,38267.0
+P0038,M,Chennai,Tamil Nadu,HealthPlus,2,2,18584.0
+P0039,M,Hyderabad,Telangana,MediShield,1,1,20751.0
+P0040,M,Chennai,Tamil Nadu,CareSecure,3,3,53463.0
+P0041,M,Chennai,Tamil Nadu,CareSecure,3,3,43258.0
+P0042,F,Hyderabad,Telangana,HealthPlus,1,1,20633.0
+P0043,F,Madurai,Tamil Nadu,HealthPlus,3,3,17978.0
+P0044,M,Chennai,Tamil Nadu,MediShield,3,3,31723.0
+P0045,F,Madurai,Tamil Nadu,HealthPlus,2,2,35526.0
+P0046,F,Bengaluru,Karnataka,MediShield,1,1,13033.0
+P0047,M,Chennai,Tamil Nadu,CareSecure,0,0,0.0
+P0048,F,Madurai,Tamil Nadu,MediShield,5,5,64580.0
+P0049,M,Bengaluru,Karnataka,HealthPlus,2,2,24584.0
+P0050,F,Madurai,Tamil Nadu,MediShield,2,2,22492.0
+P0051,M,Bengaluru,Karnataka,CareSecure,3,3,57444.0
+P0052,F,Hyderabad,Telangana,CareSecure,3,3,29251.0
+P0053,F,Chennai,Tamil Nadu,MediShield,1,1,1935.0
+P0054,M,Bengaluru,Karnataka,CareSecure,2,2,26766.0
+P0055,F,Chennai,Tamil Nadu,HealthPlus,4,4,76370.0
+P0056,M,Chennai,Tamil Nadu,CareSecure,4,4,56936.0
+P0057,F,Madurai,Tamil Nadu,CareSecure,5,5,54338.0
+P0058,F,Madurai,Tamil Nadu,MediShield,0,0,0.0
+P0059,F,Hyderabad,Telangana,HealthPlus,4,4,32486.0
+P0060,M,Chennai,Tamil Nadu,CareSecure,3,3,49062.0
+P0061,M,Hyderabad,Telangana,CareSecure,2,2,36083.0
+P0062,M,Bengaluru,Karnataka,MediShield,1,1,24988.0
+P0063,F,Madurai,Tamil Nadu,MediShield,0,0,0.0
+P0064,M,Madurai,Tamil Nadu,MediShield,0,0,0.0
+P0065,F,Hyderabad,Telangana,HealthPlus,1,1,10801.0
+P0066,F,Bengaluru,Karnataka,CareSecure,2,2,27498.0
+P0067,F,Coimbatore,Tamil Nadu,MediShield,3,3,42579.0
+P0068,M,Hyderabad,Telangana,HealthPlus,2,2,22102.0
+P0069,F,Coimbatore,Tamil Nadu,CareSecure,7,7,96773.0
+P0070,F,Hyderabad,Telangana,HealthPlus,1,1,24131.0
+P0071,M,Coimbatore,Tamil Nadu,HealthPlus,2,2,22261.0
+P0072,F,Hyderabad,Telangana,HealthPlus,0,0,0.0
+P0073,F,Bengaluru,Karnataka,MediShield,3,3,24917.0
+P0074,F,Hyderabad,Telangana,CareSecure,2,2,20851.0
+P0075,M,Coimbatore,Tamil Nadu,CareSecure,3,3,46063.0
+P0076,F,Bengaluru,Karnataka,CareSecure,2,2,40200.0
+P0077,M,Hyderabad,Telangana,MediShield,1,1,20589.0
+P0078,F,Coimbatore,Tamil Nadu,HealthPlus,1,1,8457.0
+P0079,F,Coimbatore,Tamil Nadu,CareSecure,3,3,51819.0
+P0080,M,Chennai,Tamil Nadu,CareSecure,4,4,16784.0
+P0081,F,Coimbatore,Tamil Nadu,MediShield,1,1,2659.0
+P0082,M,Bengaluru,Karnataka,CareSecure,0,0,0.0
+P0083,M,Hyderabad,Telangana,CareSecure,5,5,91328.0
+P0084,F,Coimbatore,Tamil Nadu,CareSecure,1,1,2156.0
+P0085,M,Madurai,Tamil Nadu,CareSecure,4,4,61755.0
+P0086,M,Chennai,Tamil Nadu,MediShield,1,1,20922.0
+P0087,M,Chennai,Tamil Nadu,HealthPlus,1,1,12690.0
+P0088,F,Coimbatore,Tamil Nadu,MediShield,1,1,10192.0
+P0089,M,Madurai,Tamil Nadu,CareSecure,2,2,26307.0
+P0090,F,Chennai,Tamil Nadu,MediShield,0,0,0.0
+P0091,F,Coimbatore,Tamil Nadu,MediShield,0,0,0.0
+P0092,F,Hyderabad,Telangana,MediShield,2,2,11667.0
+P0093,M,Bengaluru,Karnataka,CareSecure,3,3,54618.0
+P0094,F,Bengaluru,Karnataka,HealthPlus,2,2,12131.0
+P0095,F,Hyderabad,Telangana,CareSecure,3,3,47150.0
+P0096,F,Hyderabad,Telangana,CareSecure,2,2,19546.0
+P0097,F,Coimbatore,Tamil Nadu,HealthPlus,3,3,34803.0
+P0098,F,Bengaluru,Karnataka,CareSecure,1,1,11301.0
+P0099,M,Madurai,Tamil Nadu,HealthPlus,2,2,19389.0
+P0100,F,Coimbatore,Tamil Nadu,MediShield,1,1,24856.0

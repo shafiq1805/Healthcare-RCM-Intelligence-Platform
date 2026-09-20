@@ -1,0 +1,84 @@
+denial_id,claim_id,denial_date,denial_code,denial_reason,denial_category,appeal_status,source_file,ingestion_timestamp,batch_id,source_row_number
+D00001,C00002,2026-07-27,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,1
+D00002,C00005,2026-01-26,CO-197,Authorization missing,Authorization,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,2
+D00003,C00012,2026-03-28,CO-16,Missing required documentation,Documentation,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,3
+D00004,C00013,2026-07-11,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,4
+D00005,C00014,2026-09-03,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,5
+D00006,C00017,2026-09-05,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,6
+D00007,C00019,2026-06-16,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,7
+D00008,C00020,2026-09-08,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,8
+D00009,C00025,2026-07-18,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,9
+D00010,C00028,2026-01-22,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,10
+D00011,C00030,2026-05-10,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,11
+D00012,C00033,2026-02-15,CO-197,Authorization missing,Authorization,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,12
+D00013,C00034,2026-04-05,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,13
+D00014,C00037,2026-05-09,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,14
+D00015,C00040,2026-06-29,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,15
+D00016,C00044,2026-03-17,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,16
+D00017,C00047,2026-08-13,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,17
+D00018,C00049,2026-06-09,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,18
+D00019,C00050,2026-08-13,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,19
+D00020,C00052,2026-05-13,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,20
+D00021,C00053,2026-05-29,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,21
+D00022,C00054,2026-05-07,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,22
+D00023,C00061,2026-07-25,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,23
+D00024,C00062,2026-07-03,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,24
+D00025,C00065,2026-05-13,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,25
+D00026,C00066,2026-06-11,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,26
+D00027,C00068,2026-04-29,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,27
+D00028,C00070,2026-05-20,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,28
+D00029,C00071,2026-08-26,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,29
+D00030,C00073,2026-01-10,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,30
+D00031,C00075,2026-01-27,CO-197,Authorization missing,Authorization,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,31
+D00032,C00076,2026-06-25,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,32
+D00033,C00079,2026-04-25,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,33
+D00034,C00081,2026-03-12,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,34
+D00035,C00082,2026-03-17,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,35
+D00036,C00087,2026-04-19,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,36
+D00037,C00090,2026-02-23,CO-197,Authorization missing,Authorization,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,37
+D00038,C00092,2026-05-25,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,38
+D00039,C00093,2026-03-15,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,39
+D00040,C00095,2026-09-04,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,40
+D00041,C00102,2026-06-06,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,41
+D00042,C00103,2026-08-10,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,42
+D00043,C00104,2026-03-28,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,43
+D00044,C00106,2026-09-01,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,44
+D00045,C00107,2026-08-09,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,45
+D00046,C00108,2026-08-12,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,46
+D00047,C00110,2026-09-03,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,47
+D00048,C00113,2026-02-10,CO-16,Missing required documentation,Documentation,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,48
+D00049,C00114,2026-03-05,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,49
+D00050,C00118,2026-09-06,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,50
+D00051,C00123,2026-02-02,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,51
+D00052,C00131,2026-08-26,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,52
+D00053,C00132,2026-06-30,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,53
+D00054,C00133,2026-01-21,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,54
+D00055,C00134,2026-05-21,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,55
+D00056,C00136,2026-04-30,CO-16,Missing required documentation,Documentation,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,56
+D00057,C00137,2026-05-01,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,57
+D00058,C00139,2026-06-21,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,58
+D00059,C00142,2026-02-07,CO-197,Authorization missing,Authorization,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,59
+D00060,C00144,2026-01-30,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,60
+D00061,C00147,2026-01-24,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,61
+D00062,C00150,2026-02-28,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,62
+D00063,C00152,2026-07-30,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,63
+D00064,C00154,2026-06-01,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,64
+D00065,C00155,2026-06-25,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,65
+D00066,C00157,2026-04-03,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,66
+D00067,C00161,2026-05-16,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,67
+D00068,C00162,2026-02-18,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,68
+D00069,C00163,2026-06-18,CO-50,Service not medically necessary,Medical Necessity,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,69
+D00070,C00164,2026-03-28,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,70
+D00071,C00166,2026-05-25,CO-50,Service not medically necessary,Medical Necessity,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,71
+D00072,C00167,2026-02-04,CO-16,Missing required documentation,Documentation,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,72
+D00073,C00171,2026-04-22,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,73
+D00074,C00172,2026-03-29,CO-16,Missing required documentation,Documentation,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,74
+D00075,C00176,2026-05-14,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,75
+D00076,C00181,2026-01-29,CO-50,Service not medically necessary,Medical Necessity,CLOSED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,76
+D00077,C00182,2026-02-05,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,77
+D00078,C00183,2026-08-13,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,78
+D00079,C00186,2026-04-11,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,79
+D00080,C00187,2026-08-24,CO-197,Authorization missing,Authorization,OPEN,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,80
+D00081,C00191,2026-07-06,CO-197,Authorization missing,Authorization,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,81
+D00082,C00196,2026-01-23,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,82
+D00083,C00200,2026-06-01,CO-16,Missing required documentation,Documentation,APPEALED,denials.csv,2026-09-20 10:21:30.876745,BATCH_20260920_102130,83

@@ -1,0 +1,201 @@
+note_id,encounter_id,patient_id,provider_id,note_type,note_date,clinical_text,source_file,ingestion_timestamp,batch_id,source_row_number
+N00001,E00001,P0069,PR012,Consult Note,2026-06-02,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,1
+N00002,E00002,P0059,PR009,Progress Note,2026-07-18,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,2
+N00003,E00003,P0006,PR010,Consult Note,2026-04-26,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,3
+N00004,E00004,P0045,PR003,Progress Note,2026-04-20,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,4
+N00005,E00005,P0012,PR012,Consult Note,2026-01-16,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,5
+N00006,E00006,P0019,PR005,Progress Note,2026-07-15,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,6
+N00007,E00007,P0057,PR007,Discharge Summary,2026-03-09,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,7
+N00008,E00008,P0025,PR018,Consult Note,2026-02-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,8
+N00009,E00009,P0016,PR018,Progress Note,2026-05-22,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,9
+N00010,E00010,P0014,PR015,Consult Note,2026-01-01,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,10
+N00011,E00011,P0016,PR017,Progress Note,2026-05-01,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,11
+N00012,E00012,P0043,PR009,Progress Note,2026-03-15,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,12
+N00013,E00013,P0069,PR019,Progress Note,2026-06-29,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,13
+N00014,E00014,P0023,PR007,Consult Note,2026-08-25,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,14
+N00015,E00015,P0080,PR002,Consult Note,2026-04-19,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,15
+N00016,E00016,P0021,PR015,Consult Note,2026-02-27,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,16
+N00017,E00017,P0097,PR004,Consult Note,2026-08-21,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,17
+N00018,E00018,P0048,PR004,Discharge Summary,2026-01-16,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,18
+N00019,E00019,P0005,PR006,Progress Note,2026-06-02,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,19
+N00020,E00020,P0079,PR002,Discharge Summary,2026-08-24,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,20
+N00021,E00021,P0048,PR013,Discharge Summary,2026-04-30,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,21
+N00022,E00022,P0002,PR002,Consult Note,2026-06-29,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,22
+N00023,E00023,P0075,PR020,Discharge Summary,2026-05-19,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,23
+N00024,E00024,P0059,PR001,Consult Note,2026-06-03,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,24
+N00025,E00025,P0044,PR018,Consult Note,2026-07-08,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,25
+N00026,E00026,P0041,PR004,Progress Note,2026-01-07,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,26
+N00027,E00027,P0003,PR015,Consult Note,2026-06-22,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,27
+N00028,E00028,P0081,PR019,Consult Note,2026-01-06,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,28
+N00029,E00029,P0052,PR002,Consult Note,2026-05-28,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,29
+N00030,E00030,P0067,PR010,Consult Note,2026-05-01,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,30
+N00031,E00031,P0017,PR018,Progress Note,2026-08-23,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,31
+N00032,E00032,P0073,PR004,Progress Note,2026-04-22,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,32
+N00033,E00033,P0020,PR020,Consult Note,2026-01-24,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,33
+N00034,E00034,P0001,PR006,Discharge Summary,2026-03-27,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,34
+N00035,E00035,P0088,PR012,Discharge Summary,2026-03-26,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,35
+N00036,E00036,P0039,PR004,Consult Note,2026-06-19,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,36
+N00037,E00037,P0070,PR007,Progress Note,2026-04-27,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,37
+N00038,E00038,P0045,PR007,Consult Note,2026-03-06,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,38
+N00039,E00039,P0015,PR013,Progress Note,2026-08-10,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,39
+N00040,E00040,P0057,PR014,Discharge Summary,2026-06-18,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,40
+N00041,E00041,P0074,PR007,Progress Note,2026-04-16,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,41
+N00042,E00042,P0029,PR005,Discharge Summary,2026-05-13,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,42
+N00043,E00043,P0015,PR008,Consult Note,2026-06-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,43
+N00044,E00044,P0083,PR013,Progress Note,2026-03-10,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,44
+N00045,E00045,P0095,PR010,Consult Note,2026-08-26,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,45
+N00046,E00046,P0069,PR008,Consult Note,2026-02-01,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,46
+N00047,E00047,P0069,PR013,Consult Note,2026-07-24,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,47
+N00048,E00048,P0048,PR010,Discharge Summary,2026-03-21,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,48
+N00049,E00049,P0003,PR014,Discharge Summary,2026-05-22,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,49
+N00050,E00050,P0003,PR006,Consult Note,2026-08-04,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,50
+N00051,E00051,P0095,PR001,Consult Note,2026-01-31,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,51
+N00052,E00052,P0002,PR014,Progress Note,2026-05-08,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,52
+N00053,E00053,P0076,PR010,Progress Note,2026-05-11,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,53
+N00054,E00054,P0069,PR002,Consult Note,2026-04-17,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,54
+N00055,E00055,P0055,PR005,Discharge Summary,2026-04-27,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,55
+N00056,E00056,P0023,PR016,Discharge Summary,2026-04-09,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,56
+N00057,E00057,P0051,PR002,Consult Note,2026-05-11,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,57
+N00058,E00058,P0056,PR020,Consult Note,2026-08-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,58
+N00059,E00059,P0053,PR015,Consult Note,2026-07-17,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,59
+N00060,E00060,P0026,PR003,Progress Note,2026-03-10,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,60
+N00061,E00061,P0055,PR008,Discharge Summary,2026-07-05,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,61
+N00062,E00062,P0100,PR020,Progress Note,2026-06-18,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,62
+N00063,E00063,P0050,PR012,Consult Note,2026-05-18,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,63
+N00064,E00064,P0027,PR007,Progress Note,2026-05-22,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,64
+N00065,E00065,P0032,PR007,Discharge Summary,2026-04-27,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,65
+N00066,E00066,P0023,PR011,Progress Note,2026-05-27,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,66
+N00067,E00067,P0036,PR015,Progress Note,2026-01-12,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,67
+N00068,E00068,P0010,PR007,Consult Note,2026-04-09,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,68
+N00069,E00069,P0011,PR016,Consult Note,2026-05-07,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,69
+N00070,E00070,P0085,PR018,Consult Note,2026-05-09,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,70
+N00071,E00071,P0012,PR020,Consult Note,2026-08-11,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,71
+N00072,E00072,P0087,PR003,Discharge Summary,2026-01-26,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,72
+N00073,E00073,P0065,PR015,Consult Note,2026-01-04,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,73
+N00074,E00074,P0055,PR004,Progress Note,2026-04-15,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,74
+N00075,E00075,P0049,PR004,Consult Note,2026-01-20,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,75
+N00076,E00076,P0001,PR015,Progress Note,2026-06-09,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,76
+N00077,E00077,P0054,PR008,Consult Note,2026-06-16,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,77
+N00078,E00078,P0014,PR013,Progress Note,2026-08-07,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,78
+N00079,E00079,P0071,PR019,Consult Note,2026-04-08,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,79
+N00080,E00080,P0052,PR019,Progress Note,2026-01-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,80
+N00081,E00081,P0083,PR014,Consult Note,2026-03-02,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,81
+N00082,E00082,P0059,PR020,Progress Note,2026-02-28,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,82
+N00083,E00083,P0040,PR019,Progress Note,2026-04-22,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,83
+N00084,E00084,P0056,PR011,Discharge Summary,2026-04-24,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,84
+N00085,E00085,P0094,PR018,Discharge Summary,2026-08-20,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,85
+N00086,E00086,P0044,PR001,Consult Note,2026-03-25,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,86
+N00087,E00087,P0042,PR005,Discharge Summary,2026-04-02,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,87
+N00088,E00088,P0033,PR001,Consult Note,2026-03-04,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,88
+N00089,E00089,P0007,PR012,Discharge Summary,2026-05-25,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,89
+N00090,E00090,P0089,PR006,Discharge Summary,2026-02-13,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,90
+N00091,E00091,P0038,PR017,Discharge Summary,2026-06-06,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,91
+N00092,E00092,P0054,PR017,Consult Note,2026-05-08,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,92
+N00093,E00093,P0025,PR004,Discharge Summary,2026-03-01,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,93
+N00094,E00094,P0051,PR015,Progress Note,2026-03-07,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,94
+N00095,E00095,P0075,PR006,Progress Note,2026-08-19,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,95
+N00096,E00096,P0034,PR006,Progress Note,2026-02-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,96
+N00097,E00097,P0037,PR007,Discharge Summary,2026-03-30,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,97
+N00098,E00098,P0008,PR013,Consult Note,2026-06-13,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,98
+N00099,E00099,P0005,PR012,Progress Note,2026-08-05,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,99
+N00100,E00100,P0084,PR008,Discharge Summary,2026-08-07,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,100
+N00101,E00101,P0095,PR017,Consult Note,2026-04-08,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,101
+N00102,E00102,P0037,PR012,Progress Note,2026-05-28,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,102
+N00103,E00103,P0056,PR015,Discharge Summary,2026-08-01,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,103
+N00104,E00104,P0086,PR013,Discharge Summary,2026-03-12,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,104
+N00105,E00105,P0096,PR011,Progress Note,2026-08-10,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,105
+N00106,E00106,P0044,PR004,Progress Note,2026-08-22,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,106
+N00107,E00107,P0041,PR019,Progress Note,2026-08-02,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,107
+N00108,E00108,P0077,PR014,Progress Note,2026-07-25,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,108
+N00109,E00109,P0041,PR004,Consult Note,2026-06-08,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,109
+N00110,E00110,P0043,PR004,Progress Note,2026-08-20,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,110
+N00111,E00111,P0008,PR009,Discharge Summary,2026-03-21,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,111
+N00112,E00112,P0012,PR016,Discharge Summary,2026-04-04,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,112
+N00113,E00113,P0085,PR010,Progress Note,2026-01-24,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,113
+N00114,E00114,P0073,PR017,Consult Note,2026-02-14,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,114
+N00115,E00115,P0083,PR015,Consult Note,2026-07-21,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,115
+N00116,E00116,P0015,PR015,Discharge Summary,2026-05-16,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,116
+N00117,E00117,P0037,PR003,Consult Note,2026-08-01,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,117
+N00118,E00118,P0093,PR011,Progress Note,2026-08-22,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,118
+N00119,E00119,P0060,PR018,Consult Note,2026-07-25,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,119
+N00120,E00120,P0031,PR001,Consult Note,2026-01-20,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,120
+N00121,E00121,P0083,PR011,Consult Note,2026-08-09,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,121
+N00122,E00122,P0059,PR012,Discharge Summary,2026-08-05,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,122
+N00123,E00123,P0062,PR007,Discharge Summary,2026-01-24,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,123
+N00124,E00124,P0018,PR004,Progress Note,2026-05-18,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,124
+N00125,E00125,P0061,PR018,Progress Note,2026-04-05,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,125
+N00126,E00126,P0051,PR019,Consult Note,2026-05-30,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,126
+N00127,E00127,P0097,PR020,Discharge Summary,2026-06-22,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,127
+N00128,E00128,P0015,PR008,Consult Note,2026-01-07,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,128
+N00129,E00129,P0094,PR007,Discharge Summary,2026-03-25,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,129
+N00130,E00130,P0004,PR019,Progress Note,2026-06-15,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,130
+N00131,E00131,P0073,PR003,Progress Note,2026-08-21,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,131
+N00132,E00132,P0067,PR007,Consult Note,2026-06-16,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,132
+N00133,E00133,P0096,PR016,Discharge Summary,2026-01-12,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,133
+N00134,E00134,P0083,PR001,Consult Note,2026-05-07,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,134
+N00135,E00135,P0022,PR013,Discharge Summary,2026-03-02,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,135
+N00136,E00136,P0061,PR011,Consult Note,2026-04-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,136
+N00137,E00137,P0068,PR002,Progress Note,2026-04-18,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,137
+N00138,E00138,P0098,PR016,Consult Note,2026-08-15,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,138
+N00139,E00139,P0035,PR002,Progress Note,2026-06-07,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,139
+N00140,E00140,P0050,PR019,Discharge Summary,2026-06-26,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,140
+N00141,E00141,P0055,PR009,Discharge Summary,2026-04-24,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,141
+N00142,E00142,P0093,PR020,Consult Note,2026-01-26,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,142
+N00143,E00143,P0092,PR001,Discharge Summary,2026-05-20,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,143
+N00144,E00144,P0092,PR015,Discharge Summary,2026-01-16,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,144
+N00145,E00145,P0079,PR019,Discharge Summary,2026-02-01,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,145
+N00146,E00146,P0080,PR001,Consult Note,2026-06-14,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,146
+N00147,E00147,P0002,PR014,Discharge Summary,2026-01-06,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,147
+N00148,E00148,P0068,PR009,Progress Note,2026-03-04,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,148
+N00149,E00149,P0040,PR016,Discharge Summary,2026-02-22,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,149
+N00150,E00150,P0080,PR003,Progress Note,2026-02-23,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,150
+N00151,E00151,P0046,PR005,Progress Note,2026-07-28,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,151
+N00152,E00152,P0066,PR019,Progress Note,2026-07-18,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,152
+N00153,E00153,P0069,PR019,Consult Note,2026-01-01,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,153
+N00154,E00154,P0076,PR008,Progress Note,2026-05-19,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,154
+N00155,E00155,P0066,PR005,Discharge Summary,2026-06-19,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,155
+N00156,E00156,P0033,PR020,Discharge Summary,2026-01-04,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,156
+N00157,E00157,P0052,PR007,Discharge Summary,2026-03-24,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,157
+N00158,E00158,P0016,PR002,Discharge Summary,2026-03-09,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,158
+N00159,E00159,P0071,PR016,Consult Note,2026-07-09,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,159
+N00160,E00160,P0017,PR019,Consult Note,2026-07-10,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,160
+N00161,E00161,P0012,PR011,Discharge Summary,2026-04-25,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,161
+N00162,E00162,P0056,PR007,Progress Note,2026-01-28,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,162
+N00163,E00163,P0040,PR015,Discharge Summary,2026-06-07,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,163
+N00164,E00164,P0075,PR006,Progress Note,2026-03-19,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,164
+N00165,E00165,P0097,PR003,Discharge Summary,2026-05-03,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,165
+N00166,E00166,P0078,PR018,Consult Note,2026-05-06,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,166
+N00167,E00167,P0043,PR016,Discharge Summary,2026-01-19,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,167
+N00168,E00168,P0099,PR009,Consult Note,2026-06-05,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,168
+N00169,E00169,P0024,PR015,Discharge Summary,2026-02-02,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,169
+N00170,E00170,P0003,PR005,Discharge Summary,2026-05-21,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,170
+N00171,E00171,P0020,PR011,Discharge Summary,2026-04-08,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,171
+N00172,E00172,P0048,PR012,Consult Note,2026-03-17,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,172
+N00173,E00173,P0085,PR013,Progress Note,2026-04-21,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,173
+N00174,E00174,P0037,PR001,Progress Note,2026-08-07,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,174
+N00175,E00175,P0023,PR016,Discharge Summary,2026-07-04,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,175
+N00176,E00176,P0035,PR006,Discharge Summary,2026-04-26,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,176
+N00177,E00177,P0085,PR018,Progress Note,2026-03-28,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,177
+N00178,E00178,P0048,PR016,Discharge Summary,2026-07-06,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,178
+N00179,E00179,P0099,PR018,Discharge Summary,2026-04-20,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,179
+N00180,E00180,P0001,PR008,Discharge Summary,2026-02-09,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,180
+N00181,E00181,P0007,PR012,Consult Note,2026-01-18,Patient presents with hypertension. Blood pressure remains elevated.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,181
+N00182,E00182,P0033,PR002,Discharge Summary,2026-01-24,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,182
+N00183,E00183,P0049,PR002,Consult Note,2026-07-27,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,183
+N00184,E00184,P0060,PR006,Discharge Summary,2026-01-16,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,184
+N00185,E00185,P0080,PR013,Progress Note,2026-05-24,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,185
+N00186,E00186,P0011,PR008,Progress Note,2026-04-01,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,186
+N00187,E00187,P0060,PR019,Consult Note,2026-08-11,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,187
+N00188,E00188,P0093,PR004,Consult Note,2026-03-15,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,188
+N00189,E00189,P0030,PR003,Discharge Summary,2026-04-01,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,189
+N00190,E00190,P0011,PR001,Consult Note,2026-05-10,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,190
+N00191,E00191,P0057,PR010,Consult Note,2026-06-18,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,191
+N00192,E00192,P0057,PR012,Consult Note,2026-03-31,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,192
+N00193,E00193,P0011,PR017,Consult Note,2026-01-30,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,193
+N00194,E00194,P0079,PR004,Discharge Summary,2026-07-26,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,194
+N00195,E00195,P0038,PR006,Discharge Summary,2026-06-07,Patient with type 2 diabetes presents for follow-up. Glucose remains above target.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,195
+N00196,E00196,P0067,PR018,Discharge Summary,2026-01-07,Patient reports lower back pain without neurological deficit.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,196
+N00197,E00197,P0074,PR012,Progress Note,2026-01-08,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,197
+N00198,E00198,P0057,PR018,Discharge Summary,2026-06-29,Patient reports chest discomfort. ECG performed during evaluation.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,198
+N00199,E00199,P0089,PR001,Consult Note,2026-01-02,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,199
+N00200,E00200,P0069,PR008,Consult Note,2026-05-25,Patient presents with cough and fever. Findings are consistent with pneumonia.,clinical_notes.csv,2026-09-20 10:21:30.860228,BATCH_20260920_102130,200

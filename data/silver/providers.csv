@@ -1,0 +1,21 @@
+provider_id,provider_name,specialty,npi,facility_name,city,state,source_file,ingestion_timestamp,batch_id,source_row_number
+PR001,Dr Divya Kumar,Cardiology,1000000001,Bengaluru Medical Center,Bengaluru,Karnataka,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,1
+PR002,Dr Meena Patel,Internal Medicine,1000000002,Madurai Medical Center,Madurai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,2
+PR003,Dr Lakshmi Menon,Neurology,1000000003,Madurai Medical Center,Madurai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,3
+PR004,Dr Sanjay Menon,Neurology,1000000004,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,4
+PR005,Dr Anita Menon,Neurology,1000000005,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,5
+PR006,Dr Rahul Nair,Internal Medicine,1000000006,Madurai Medical Center,Madurai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,6
+PR007,Dr Meena Menon,Cardiology,1000000007,Chennai Medical Center,Chennai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,7
+PR008,Dr Karthik Rao,Internal Medicine,1000000008,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,8
+PR009,Dr Rahul Nair,Cardiology,1000000009,Bengaluru Medical Center,Bengaluru,Karnataka,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,9
+PR010,Dr Rahul Rao,Orthopedics,1000000010,Coimbatore Medical Center,Coimbatore,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,10
+PR011,Dr Rahul Kumar,General Medicine,1000000011,Coimbatore Medical Center,Coimbatore,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,11
+PR012,Dr Rahul Kumar,Cardiology,1000000012,Coimbatore Medical Center,Coimbatore,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,12
+PR013,Dr Rahul Sharma,Neurology,1000000013,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,13
+PR014,Dr Arun Nair,Neurology,1000000014,Chennai Medical Center,Chennai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,14
+PR015,Dr Divya Menon,Internal Medicine,1000000015,Bengaluru Medical Center,Bengaluru,Karnataka,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,15
+PR016,Dr Rahul Iyer,Cardiology,1000000016,Chennai Medical Center,Chennai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,16
+PR017,Dr Vijay Iyer,Cardiology,1000000017,Chennai Medical Center,Chennai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,17
+PR018,Dr Arun Sharma,Internal Medicine,1000000018,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,18
+PR019,Dr Rahul Raman,Internal Medicine,1000000019,Hyderabad Medical Center,Hyderabad,Telangana,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,19
+PR020,Dr Sanjay Patel,General Medicine,1000000020,Chennai Medical Center,Chennai,Tamil Nadu,providers.csv,2026-09-20 10:21:30.793123,BATCH_20260920_102130,20
