@@ -314,8 +314,8 @@ Healthcare-RCM-Intelligence-Platform/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shafiq1805/Healthcare-RCM-Intelligence-Platform-.git
-cd Healthcare-RCM-Intelligence-Platform-
+git clone https://github.com/shafiq1805/Healthcare-RCM-Intelligence-Platform.git
+cd Healthcare-RCM-Intelligence-Platform
 ```
 
 ### 2. Create and activate a virtual environment
